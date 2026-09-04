@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Ph%E1%BA%A1m+V%C4%83n+T%C3%BA+%F0%9F%91%8B;Software+Engineer+%7C+Mobile+%26+Backend+Developer+%F0%9F%9A%80;Passionate+about+EV+Charging+Systems%2C+.NET%2C+Flutter+%26+Deep+Learning+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=700&height=85&lines=Hi%2C+I'm+Pham+Van+Tu+%F0%9F%91%8B;Software+Engineer+%7C+ASP.NET+Core+%7C+Flutter+%7C+PyTorch;Passionate+about+Building+Scalable+%26+Modern+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:phamvantu280404@gmail.com"><img src="https://img.shields.io/badge/Gmail-phamvantu280404%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://img.shields.io/badge/Location-Vietnam-007ACC?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  <a href="https://github.com/PHAMVANTU467"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:phamvantu467@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <img src="https://komarev.com/ghpvc/?username=PHAMVANTU467&style=for-the-badge&color=00E5FF" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
+### 🏆 Thành tích & Đóng góp (GitHub Achievements)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PHAMVANTU467&theme=radical&no-frame=true&margin_w=8&margin_h=6&row=1&column=7" alt="GitHub Trophies" />
@@ -28,15 +28,15 @@
 Name: Phạm Văn Tú
 Role: Software Engineer & Full-Stack / Mobile Developer
 Location: Vietnam 🇻🇳
-Focus: EV Charging Infrastructure (OCPP), Cloud Microservices, Cross-Platform Mobile, Deep Learning
-Education: Information Technology / Computer Science
-Status: Open to Software Engineering Opportunities & High-Impact Collaborations
+Focus: Enterprise Web Systems, Cross-Platform Mobile Apps, AI & Deep Learning Labs
+Education: Information Technology / Software Engineering
+Status: Open to Software Engineering Opportunities & Professional Collaborations
 ```
 
-- ⚡ **Dự án mũi nhọn:** Nền tảng điều hành mạng lưới trạm sạc xe điện thông minh (**OCPP 1.6 / 2.0.1 & ISO 15118**).
-- 📱 **Mobile & Web:** Xây dựng ứng dụng di động đa nền tảng bằng **Flutter** và hệ thống web doanh nghiệp bằng **ASP.NET Core**.
-- 🧠 **Nghiên cứu AI:** Mô hình học sâu (**Deep Learning**), thị giác máy tính (**Computer Vision**) và mạng nơ-ron tích chập (CNN).
-- 💬 **Kỹ năng cốt lõi:** Thiết kế kiến trúc phần mềm chuẩn Clean Architecture/Monorepo, tối ưu hóa cơ sở dữ liệu và bảo mật Zero-Trust.
+- ⚡ **Hệ thống Web & Doanh nghiệp:** Xây dựng hệ thống quản lý & vận hành trạm sạc xe điện thông minh (**ASP.NET Core MVC, Docker, SQL Server**) và nền tảng bán hàng POS (**Node.js, Express**).
+- 📱 **Ứng dụng di động:** Phát triển ứng dụng di động đa nền tảng hiện đại (**Flutter & Dart**) với kiến trúc Clean Architecture, biểu đồ thống kê tài chính và cơ sở dữ liệu nội bộ SQLite.
+- 🧠 **Trí tuệ nhân tạo (AI):** Nghiên cứu và huấn luyện mô hình học sâu (**Deep Learning**), thị giác máy tính (**Computer Vision**), mạng nơ-ron tích chập (**CNN**) và mạng hồi quy (**LSTM**) trên nền tảng **PyTorch**.
+- 🛠️ **Quy trình chuẩn hóa:** Áp dụng mô hình nhánh **Git Flow** (`main` & `develop`), kiểm thử tự động, tối ưu hóa hiệu năng và container hóa ứng dụng với **Docker**.
 
 ---
 
@@ -44,7 +44,7 @@ Status: Open to Software Engineering Opportunities & High-Impact Collaborations
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,flutter,dart,cpp,js,html,css,postgres,redis,sqlite,docker,git,linux,nginx&perline=9" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,python,fastapi,js,html,css,postgres,redis,sqlite,docker,git,linux,nginx&perline=8" alt="My Skills" />
   </a>
 </p>
 
@@ -53,9 +53,8 @@ Status: Open to Software Engineering Opportunities & High-Impact Collaborations
     <td align="center" width="22%"><strong>Ngôn ngữ (Languages)</strong></td>
     <td>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -66,7 +65,6 @@ Status: Open to Software Engineering Opportunities & High-Impact Collaborations
     <td align="center"><strong>Frameworks & Libs</strong></td>
     <td>
       <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
@@ -77,10 +75,10 @@ Status: Open to Software Engineering Opportunities & High-Impact Collaborations
   <tr>
     <td align="center"><strong>Cơ sở dữ liệu (Databases)</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
     </td>
   </tr>
   <tr>
@@ -91,22 +89,20 @@ Status: Open to Software Engineering Opportunities & High-Impact Collaborations
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌟 Dự án nổi bật (Featured Repositories)
+### 🌟 4 Trụ Cột Dự Án Trọng Điểm (Core Pillars)
 
-| Dự án | Công nghệ | Mô tả nổi bật |
-| :--- | :--- | :--- |
-| **⚡ [ocpp-charging-platform](https://github.com/PHAMVANTU467/ocpp-charging-platform)** | `Python 3.12`, `FastAPI`, `Docker`, `OCPP 1.6/2.0.1` | **Enterprise CSMS Platform:** Hệ thống trạm sạc xe điện hoàn chỉnh gồm Core CSMS, Admin Dashboard, Driver PWA, Charger Farm simulator và Nginx gateway. |
-| **⚡ [ChauThanhEV](https://github.com/PHAMVANTU467/ChauThanhEV)** | `C#`, `ASP.NET Core MVC`, `Docker` | Hệ thống quản lý & đặt chỗ trạm sạc xe điện Châu Thành EV với kiến trúc MVC containerized và giao diện thân thiện. |
-| **📱 [Lap_Trinh_Di_Dong](https://github.com/PHAMVANTU467/Lap_Trinh_Di_Dong)** | `Flutter`, `Dart`, `SQLite`, `Mobile` | Ứng dụng di động quản lý thu chi tài chính cá nhân đa nền tảng (Android & iOS) với biểu đồ trực quan. |
-| **🍔 [Goan](https://github.com/PHAMVANTU467/Goan)** | `Node.js`, `Express`, `JavaScript` | Hệ thống Point-of-Sale (POS) & quản lý bán hàng ẩm thực trực tuyến tối ưu tốc độ xử lý đơn hàng. |
-| **🧠 [DEEP-LEARNING](https://github.com/PHAMVANTU467/DEEP-LEARNING)** | `Python`, `Jupyter`, `PyTorch`, `TensorFlow` | Tổng hợp các bài thực hành học sâu: Mạng nơ-ron (ANN), tích chập (CNN), hồi quy (RNN/LSTM) & phân loại dữ liệu. |
+| Lĩnh vực | Dự án | Công nghệ chính | Mô tả & Tính năng nổi bật |
+| :--- | :--- | :--- | :--- |
+| ⚡ **EV Charging** | **[ChauThanhEV](https://github.com/PHAMVANTU467/ChauThanhEV)** | `C#`, `ASP.NET Core MVC`, `Docker` | **Hệ thống quản lý & đặt chỗ trạm sạc xe điện Châu Thành EV** với kiến trúc MVC containerized, giao diện bảng điều khiển quản trị trực quan, quản lý cổng sạc và người dùng. Có bản chạy thử trực tuyến (Live Demo). |
+| 📱 **Mobile App** | **[Lap_Trinh_Di_Dong](https://github.com/PHAMVANTU467/Lap_Trinh_Di_Dong)** | `Flutter`, `Dart`, `SQLite` | **Ứng dụng di động quản lý thu chi cá nhân & tài chính gia đình** đa nền tảng (Android & iOS). Tích hợp cơ sở dữ liệu cục bộ SQLite, biểu đồ phân tích thống kê chi tiêu trực quan theo danh mục. |
+| 🍔 **Web & POS** | **[Goan](https://github.com/PHAMVANTU467/Goan)** | `Node.js`, `Express`, `JavaScript` | **Hệ thống Point-of-Sale (POS) & Quản lý bán hàng ẩm thực** tối ưu hóa cho nhà hàng và quán ăn. Quản lý thực đơn, tính toán hóa đơn, luồng đăng nhập phân quyền và xử lý đơn hàng nhanh chóng. |
+| 🧠 **AI & Vision** | **[DEEP-LEARNING](https://github.com/PHAMVANTU467/DEEP-LEARNING)** | `Python`, `Jupyter`, `PyTorch` | **Tổng hợp các bài lab học sâu và thị giác máy tính:** Triển khai các mạng nơ-ron nhân tạo (ANN), mạng tích chập (CNN), mạng hồi quy (RNN/LSTM), phân loại ảnh và nhận diện mẫu. |
 
 ---
 
