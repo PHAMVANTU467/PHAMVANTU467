@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=700&height=85&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Ph%E1%BA%A1m+V%C4%83n+T%C3%BA+%F0%9F%91%8B;Software+Engineer+%7C+ASP.NET+Core+%7C+Flutter+%7C+PyTorch;Đam+m%C3%AA+x%C3%A2y+d%E1%BB%B1ng+h%E1%BB%87+th%E1%BB%91ng+hi%E1%BB%87n+%C4%91%E1%BA%A1i+v%C3%A0+t%E1%BB%91i+%C6%B0u" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=700&height=85&lines=Hi%2C+I'm+Pham+Van+Tu+%F0%9F%91%8B;Software+Engineer+%7C+ASP.NET+Core+%7C+Flutter+%7C+PyTorch;Passionate+about+High+Performance+%26+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Email: phamvantu280404@gmail.com
 
 ### 🌟 4 Trụ Cột Dự Án Trọng Điểm (Core Projects)
 
-| Lĩnh vực | Dự án | Công nghệ chính | Mô tả & Tính năng nổi bật |
+| Lĩnh vực | Dự án | Công nghệ chính | Mô tả nổi bật |
 | :--- | :--- | :--- | :--- |
 | ⚡ **EV Charging** | **[ChauThanhEV](https://github.com/PHAMVANTU467/ChauThanhEV)** | `C#`, `ASP.NET Core MVC`, `Docker` | Hệ thống quản lý & đặt chỗ trạm sạc xe điện Châu Thành EV với kiến trúc MVC containerized và bảng điều khiển quản trị trực quan. |
 | 📱 **Mobile App** | **[Lap_Trinh_Di_Dong](https://github.com/PHAMVANTU467/Lap_Trinh_Di_Dong)** | `Flutter`, `Dart`, `SQLite` | Ứng dụng di động quản lý thu chi cá nhân & tài chính gia đình đa nền tảng (Android & iOS) với biểu đồ thống kê chi tiêu trực quan. |
