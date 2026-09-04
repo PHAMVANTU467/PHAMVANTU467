@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40,60,80,100&height=220&section=header&text=PH%E1%BA%A0M%20V%C4%82N%20T%C3%9A&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Mobile%20%7C%20AI%20Enthusiast&descSize=19&descAlignY=62&descColor=00E5FF&animation=fadeIn" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40,60,80,100&height=230&section=header&text=PH%E1%BA%A0M%20V%C4%82N%20T%C3%9A&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Mobile%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=62&descColor=00E5FF&animation=fadeIn" alt="Header Banner" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Ph%E1%BA%A1m+V%C4%83n+T%C3%BA+%F0%9F%91%8B;Software+Engineer+%7C+Mobile+%26+Backend+Developer+%F0%9F%9A%80;Passionate+about+EV+Charging+Systems%2C+.NET%2C+Flutter+%26+Deep+Learning+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Ph%E1%BA%A1m+V%C4%83n+T%C3%BA+%F0%9F%91%8B;Software+Engineer+%7C+Mobile+%26+Backend+Developer+%F0%9F%9A%80;Passionate+about+EV+Charging+Systems%2C+.NET%2C+Flutter+%26+Deep+Learning+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,15 +14,23 @@
 
 ---
 
-### 💫 About Me (Giới thiệu bản thân)
+### 🏆 GitHub Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PHAMVANTU467&theme=radical&no-frame=true&margin_w=8&margin_h=6&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 💫 Giới thiệu (About Me)
 
 ```yaml
 Name: Phạm Văn Tú
 Role: Software Engineer & Full-Stack / Mobile Developer
 Location: Vietnam 🇻🇳
-Focus: EV Charging Systems (OCPP 1.6/2.0.1), Cloud Microservices, Cross-Platform Mobile, Deep Learning
+Focus: EV Charging Infrastructure (OCPP), Cloud Microservices, Cross-Platform Mobile, Deep Learning
 Education: Information Technology / Computer Science
-Status: Open for Software Engineering Opportunities & Collaborative Innovations
+Status: Open to Software Engineering Opportunities & High-Impact Collaborations
 ```
 
 - ⚡ **Dự án mũi nhọn:** Nền tảng điều hành mạng lưới trạm sạc xe điện thông minh (**OCPP 1.6 / 2.0.1 & ISO 15118**).
@@ -32,11 +40,17 @@ Status: Open for Software Engineering Opportunities & Collaborative Innovations
 
 ---
 
-### 🛠️ Tech Stack & Kỹ năng công nghệ
+### 🛠️ Kỹ năng công nghệ (Tech Stack)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,flutter,dart,cpp,js,html,css,postgres,redis,sqlite,docker,git,linux,nginx&perline=9" alt="My Skills" />
+  </a>
+</p>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="22%"><strong>Languages</strong></td>
+    <td align="center" width="22%"><strong>Ngôn ngữ (Languages)</strong></td>
     <td>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -61,7 +75,7 @@ Status: Open for Software Engineering Opportunities & Collaborative Innovations
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Databases & Storage</strong></td>
+    <td align="center"><strong>Cơ sở dữ liệu (Databases)</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
@@ -70,7 +84,7 @@ Status: Open for Software Engineering Opportunities & Collaborative Innovations
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>DevOps & Cloud</strong></td>
+    <td align="center"><strong>DevOps & Hạ tầng</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -84,7 +98,7 @@ Status: Open for Software Engineering Opportunities & Collaborative Innovations
 
 ---
 
-### 🌟 Featured Repositories (Dự án tiêu biểu)
+### 🌟 Dự án nổi bật (Featured Repositories)
 
 | Dự án | Công nghệ | Mô tả nổi bật |
 | :--- | :--- | :--- |
@@ -96,7 +110,7 @@ Status: Open for Software Engineering Opportunities & Collaborative Innovations
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 Hoạt động & Thống kê GitHub (Activity & Stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PHAMVANTU467&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=E6EDF3" alt="GitHub Stats" width="48%" />
@@ -105,6 +119,10 @@ Status: Open for Software Engineering Opportunities & Collaborative Innovations
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PHAMVANTU467&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub Streak" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PHAMVANTU467&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FF007F" alt="Activity Graph" width="100%" />
 </p>
 
 ---
