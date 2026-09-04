@@ -14,21 +14,21 @@
 
 ---
 
-### 💫 About Me (Giới thiệu)
+### 💫 About Me (Giới thiệu bản thân)
 
 ```yaml
 Name: Phạm Văn Tú
-Role: Software Engineer & Mobile / Full-Stack Developer
+Role: Software Engineer & Full-Stack / Mobile Developer
 Location: Vietnam 🇻🇳
-Interests: EV Charging Infrastructure (OCPP), Cloud Microservices, Cross-Platform Mobile, Deep Learning
+Focus: EV Charging Systems (OCPP 1.6/2.0.1), Cloud Microservices, Cross-Platform Mobile, Deep Learning
 Education: Information Technology / Computer Science
-Currently Working On: EV Charging Station Management Systems & Enterprise Architecture
-Status: Open to exciting engineering opportunities & collaborative projects
+Status: Open for Software Engineering Opportunities & Collaborative Innovations
 ```
 
-- 🔭 **Dự án chính:** Hệ thống trạm sạc xe điện thông minh (**OCPP 1.6 / 2.0.1**), Web doanh nghiệp **ASP.NET Core**, Ứng dụng di động **Flutter**.
-- 🌱 **Đang nghiên cứu sâu:** Cloud Microservices, Docker Architecture, Deep Learning (Computer Vision & NLP).
-- 💬 **Thế mạnh:** Tư duy giải quyết vấn đề, kiến trúc hệ thống chuẩn chỉnh, tối ưu hóa cơ sở dữ liệu và giao diện người dùng mượt mà.
+- ⚡ **Dự án mũi nhọn:** Nền tảng điều hành mạng lưới trạm sạc xe điện thông minh (**OCPP 1.6 / 2.0.1 & ISO 15118**).
+- 📱 **Mobile & Web:** Xây dựng ứng dụng di động đa nền tảng bằng **Flutter** và hệ thống web doanh nghiệp bằng **ASP.NET Core**.
+- 🧠 **Nghiên cứu AI:** Mô hình học sâu (**Deep Learning**), thị giác máy tính (**Computer Vision**) và mạng nơ-ron tích chập (CNN).
+- 💬 **Kỹ năng cốt lõi:** Thiết kế kiến trúc phần mềm chuẩn Clean Architecture/Monorepo, tối ưu hóa cơ sở dữ liệu và bảo mật Zero-Trust.
 
 ---
 
@@ -36,7 +36,7 @@ Status: Open to exciting engineering opportunities & collaborative projects
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="20%"><strong>Languages</strong></td>
+    <td align="center" width="22%"><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -61,7 +61,7 @@ Status: Open to exciting engineering opportunities & collaborative projects
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Databases</strong></td>
+    <td align="center"><strong>Databases & Storage</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
@@ -70,7 +70,7 @@ Status: Open to exciting engineering opportunities & collaborative projects
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>DevOps & Tools</strong></td>
+    <td align="center"><strong>DevOps & Cloud</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -78,21 +78,21 @@ Status: Open to exciting engineering opportunities & collaborative projects
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
       <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌟 Featured Projects (Dự án tiêu biểu)
+### 🌟 Featured Repositories (Dự án tiêu biểu)
 
-| Dự án | Công nghệ chính | Mô tả |
+| Dự án | Công nghệ | Mô tả nổi bật |
 | :--- | :--- | :--- |
-| **⚡ [ChauThanhEV](https://github.com/PHAMVANTU467/ChauThanhEV)** | `C#`, `ASP.NET Core MVC`, `Docker` | Hệ thống quản lý và vận hành trạm sạc xe điện Châu Thành EV với giao diện tương tác và kiến trúc containerized. |
-| **📱 [Lap_Trinh_Di_Dong](https://github.com/PHAMVANTU467/Lap_Trinh_Di_Dong)** | `Flutter`, `Dart`, `SQLite`, `Mobile` | Ứng dụng di động quản lý thu chi cá nhân & phân tích biểu đồ tài chính đa nền tảng (Android & iOS). |
-| **🍔 [Goan](https://github.com/PHAMVANTU467/Goan)** | `Node.js`, `Express`, `JavaScript` | Hệ thống Point-of-Sale (POS) & quản lý bán hàng ẩm thực trực tuyến với quy trình thanh toán và đặt món nhanh chóng. |
-| **🧠 [Deep Learning Labs](https://github.com/PHAMVANTU467/DEEP-LEARNING)** | `Python`, `PyTorch`, `TensorFlow` | Tổng hợp các bài toán học sâu, mạng nơ-ron tích chập (CNN), mạng hồi quy (RNN/LSTM) & phân loại hình ảnh. |
+| **⚡ [ocpp-charging-platform](https://github.com/PHAMVANTU467/ocpp-charging-platform)** | `Python 3.12`, `FastAPI`, `Docker`, `OCPP 1.6/2.0.1` | **Enterprise CSMS Platform:** Hệ thống trạm sạc xe điện hoàn chỉnh gồm Core CSMS, Admin Dashboard, Driver PWA, Charger Farm simulator và Nginx gateway. |
+| **⚡ [ChauThanhEV](https://github.com/PHAMVANTU467/ChauThanhEV)** | `C#`, `ASP.NET Core MVC`, `Docker` | Hệ thống quản lý & đặt chỗ trạm sạc xe điện Châu Thành EV với kiến trúc MVC containerized và giao diện thân thiện. |
+| **📱 [Lap_Trinh_Di_Dong](https://github.com/PHAMVANTU467/Lap_Trinh_Di_Dong)** | `Flutter`, `Dart`, `SQLite`, `Mobile` | Ứng dụng di động quản lý thu chi tài chính cá nhân đa nền tảng (Android & iOS) với biểu đồ trực quan. |
+| **🍔 [Goan](https://github.com/PHAMVANTU467/Goan)** | `Node.js`, `Express`, `JavaScript` | Hệ thống Point-of-Sale (POS) & quản lý bán hàng ẩm thực trực tuyến tối ưu tốc độ xử lý đơn hàng. |
+| **🧠 [DEEP-LEARNING](https://github.com/PHAMVANTU467/DEEP-LEARNING)** | `Python`, `Jupyter`, `PyTorch`, `TensorFlow` | Tổng hợp các bài thực hành học sâu: Mạng nơ-ron (ANN), tích chập (CNN), hồi quy (RNN/LSTM) & phân loại dữ liệu. |
 
 ---
 
